@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-17T05:04:14 IST" name="Suite" finished-at="2022-11-17T05:06:06 IST" duration-ms="112236">
+    <groups>
+    </groups>
+    <test started-at="2022-11-17T05:04:14 IST" name="Test" finished-at="2022-11-17T05:06:06 IST" duration-ms="112236">
+      <class name="com.testng.Amazon_TestNGParameter3BaseCO_WDM2">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testng.Amazon_TestNGParameter3BaseCO_WDM2@564fabc8]" started-at="2022-11-17T05:03:50 IST" name="setUp" finished-at="2022-11-17T05:04:14 IST" duration-ms="23878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="browser_Maximize()[pri:0, instance:com.testng.Amazon_TestNGParameter3BaseCO_WDM2@564fabc8]" started-at="2022-11-17T05:04:14 IST" name="browser_Maximize" finished-at="2022-11-17T05:04:15 IST" duration-ms="1676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_Maximize -->
+        <test-method is-config="true" signature="user_launch_browser()[pri:0, instance:com.testng.Amazon_TestNGParameter3BaseCO_WDM2@564fabc8]" started-at="2022-11-17T05:04:15 IST" name="user_launch_browser" finished-at="2022-11-17T05:05:02 IST" duration-ms="47029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_launch_browser -->
+        <test-method is-config="true" signature="beforeMethod_Statement()[pri:0, instance:com.testng.Amazon_TestNGParameter3BaseCO_WDM2@564fabc8]" started-at="2022-11-17T05:05:02 IST" name="beforeMethod_Statement" finished-at="2022-11-17T05:05:02 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod_Statement -->
+        <test-method signature="select_from_dropdown(java.lang.String)[pri:0, instance:com.testng.Amazon_TestNGParameter3BaseCO_WDM2@564fabc8]" started-at="2022-11-17T05:05:02 IST" name="select_from_dropdown" finished-at="2022-11-17T05:05:05 IST" duration-ms="2986" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Baby]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_from_dropdown -->
+        <test-method is-config="true" signature="afterMethod_Statement()[pri:0, instance:com.testng.Amazon_TestNGParameter3BaseCO_WDM2@564fabc8]" started-at="2022-11-17T05:05:05 IST" name="afterMethod_Statement" finished-at="2022-11-17T05:05:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod_Statement -->
+        <test-method is-config="true" signature="beforeMethod_Statement()[pri:0, instance:com.testng.Amazon_TestNGParameter3BaseCO_WDM2@564fabc8]" started-at="2022-11-17T05:05:05 IST" name="beforeMethod_Statement" finished-at="2022-11-17T05:05:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod_Statement -->
+        <test-method signature="send_the_value(java.lang.String)[pri:1, instance:com.testng.Amazon_TestNGParameter3BaseCO_WDM2@564fabc8]" started-at="2022-11-17T05:05:05 IST" name="send_the_value" finished-at="2022-11-17T05:05:08 IST" duration-ms="2336" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[toys]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- send_the_value -->
+        <test-method is-config="true" signature="afterMethod_Statement()[pri:0, instance:com.testng.Amazon_TestNGParameter3BaseCO_WDM2@564fabc8]" started-at="2022-11-17T05:05:08 IST" name="afterMethod_Statement" finished-at="2022-11-17T05:05:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod_Statement -->
+        <test-method signature="find_the_exact_searchvalue_in_the_suggestion_click()[pri:2, instance:com.testng.Amazon_TestNGParameter3BaseCO_WDM2@564fabc8]" started-at="2022-11-17T05:05:08 IST" name="find_the_exact_searchvalue_in_the_suggestion_click" finished-at="2022-11-17T05:06:02 IST" duration-ms="53806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- find_the_exact_searchvalue_in_the_suggestion_click -->
+        <test-method is-config="true" signature="beforeMethod_Statement()[pri:0, instance:com.testng.Amazon_TestNGParameter3BaseCO_WDM2@564fabc8]" started-at="2022-11-17T05:05:08 IST" name="beforeMethod_Statement" finished-at="2022-11-17T05:05:08 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod_Statement -->
+        <test-method is-config="true" signature="afterMethod_Statement()[pri:0, instance:com.testng.Amazon_TestNGParameter3BaseCO_WDM2@564fabc8]" started-at="2022-11-17T05:06:02 IST" name="afterMethod_Statement" finished-at="2022-11-17T05:06:02 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod_Statement -->
+        <test-method is-config="true" signature="afterClassStatement()[pri:0, instance:com.testng.Amazon_TestNGParameter3BaseCO_WDM2@564fabc8]" started-at="2022-11-17T05:06:02 IST" name="afterClassStatement" finished-at="2022-11-17T05:06:02 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassStatement -->
+        <test-method is-config="true" signature="cookie_delete()[pri:0, instance:com.testng.Amazon_TestNGParameter3BaseCO_WDM2@564fabc8]" started-at="2022-11-17T05:06:02 IST" name="cookie_delete" finished-at="2022-11-17T05:06:06 IST" duration-ms="4258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookie_delete -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testng.Amazon_TestNGParameter3BaseCO_WDM2@564fabc8]" started-at="2022-11-17T05:06:06 IST" name="tearDown" finished-at="2022-11-17T05:06:07 IST" duration-ms="1044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testng.Amazon_TestNGParameter3BaseCO_WDM2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
